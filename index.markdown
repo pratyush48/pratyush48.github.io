@@ -4,6 +4,14 @@
 
 layout: default
 ---
+<!-- ![alt text]() -->
+<div align="center">
 
+![My profile](/assets/photo.jpg)
+
+![FB](fb.png)
+![Twitter](twitter.png)
+
+</div>
 
 ---

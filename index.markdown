@@ -12,7 +12,7 @@ layout: default
   <br>
   <div class="social-icons">
     <a href="{{ site.social.fb.target }}" alt="Facebook profile">
-      <img src="{% link assets/fb.svg %}" width="50">
+      <img src="{% link assets/Untitled.png %}" width="50">
     </a>
     <a><img></a>
   </div>

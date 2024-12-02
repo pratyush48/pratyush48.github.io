@@ -4,8 +4,10 @@
 
 layout: default
 ---
+![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/65769327?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d
+)
 <!-- ![alt text]() -->
-<div class="center">
+<!-- <div class="center">
   <a href="#">
     <img src="{% link assets/photo.jpg %}" alt="My profile" width="300">
   </a>
@@ -16,6 +18,6 @@ layout: default
     </a>
     <a><img></a>
   </div>
-</div>
+</div> -->
 
 ---

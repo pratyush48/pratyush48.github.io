@@ -22,7 +22,7 @@ title: Pratyush Nandi
 repository: pratyush48/pratyush48.github.io
 email: pratyush.nandi@utah.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a 1st year PhD student working under Prof. Rajeev Balasubramonian specializing in processing- in-memory (PIM) technologies within computer architecture, I focus on designing innovative architectural solutions that integrate memory and processing elements to enhance system effi- ciency, optimize performance, and reduce energy consumption. Currently, I am developing a PIM architecture for general-purpose applications, benchmarking it against state-of-the-art PIM designs.
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pratyush48.github.io/about/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -35,7 +35,7 @@ theme: jekyll-theme-minimalist
 plugins:
   - jekyll-feed
 
-logo: /assets/img/logo.png
+logo: /assets/photo.jpg
 color-scheme: auto
 
 # You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons

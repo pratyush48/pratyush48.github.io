@@ -29,7 +29,8 @@ twitter_username: jekyllrb
 github_username:  pratyush48
 
 # Build settings
-theme: minima
+# theme: minima
+theme: jekyll-theme-minimalist
 # minimal_mistakes_skin    : "air"
 plugins:
   - jekyll-feed
@@ -70,3 +71,4 @@ sidebar:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+github: [metadata]

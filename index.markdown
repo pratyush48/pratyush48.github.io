@@ -5,7 +5,5 @@
 layout: default
 ---
 
-![alt text](/assets/photo.jpg)
-
 
 ---

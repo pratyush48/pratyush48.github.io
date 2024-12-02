@@ -8,17 +8,22 @@ layout: default
 <head>
 <style>
 body {
-    display: flex; /* Enables flexbox layout */
+    margin: 0; /* Keeps default margin */
+    background-color: #f4f4f4; /* Optional: Add a background color */
+    font-family: Helvetica,Arial, sans-serif; /* Optional: Set a font for other content */
+}
+
+.center-container {
+    display: flex; /* Enables flexbox */
     justify-content: center; /* Centers content horizontally */
     align-items: center; /* Centers content vertically */
     height: 100vh; /* Full viewport height */
-    margin: 0; /* Removes default margin */
-    background-color: #f4f4f4; /* Optional: Add a light background color */
+    width: 100%; /* Full viewport width */
 }
 
 .circular-image {
-    width: 500px; /* Set the width */
-    height: 500px; /* Set the height */
+    width: 300px; /* Set the width */
+    height: 300px; /* Set the height */
     border-radius: 50%; /* Make it circular */
     overflow: hidden; /* Hide the overflow */
     border: 4px solid #555; /* Optional: Add a border */

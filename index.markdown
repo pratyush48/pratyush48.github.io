@@ -4,7 +4,32 @@
 
 layout: default
 ---
-![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/65769327?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d
-)
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.circular-image {
+    width: 200px; /* Set the width */
+    height: 200px; /* Set the height */
+    border-radius: 50%; /* Make it circular */
+    overflow: hidden; /* Hide the overflow */
+    border: 2px solid #000; /* Optional: add a border */
+}
+
+.circular-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensure the image covers the circle */
+}
+</style>
+</head>
+<body>
+
+<div class="circular-image">
+    <img src="/assets/photo.jpg" alt="Circular Image">
+</div>
+
+</body>
+</html>
 
 ---

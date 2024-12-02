@@ -11,7 +11,7 @@ layout: default
   </a>
   <br>
   <div class="social-icons">
-    <a href="{{ https://scholar.google.com/citations?user=nI_wF6gAAAAJ&hl=en&oi=ao }}" alt="Facebook profile">
+    <a href="{ https://scholar.google.com/citations?user=nI_wF6gAAAAJ&hl=en&oi=ao }" alt="Facebook profile">
       <img src="{% link assets/Untitled.png %}" width="50">
     </a>
     <a><img></a>

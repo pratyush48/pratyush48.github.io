@@ -4,22 +4,31 @@
 
 layout: default
 ---
-<!DOCTYPE html>
 <html>
 <head>
 <style>
+body {
+    display: flex; /* Enables flexbox layout */
+    justify-content: center; /* Centers content horizontally */
+    align-items: center; /* Centers content vertically */
+    height: 100vh; /* Full viewport height */
+    margin: 0; /* Removes default margin */
+    background-color: #f4f4f4; /* Optional: Add a light background color */
+}
+
 .circular-image {
-    width: 200px; /* Set the width */
-    height: 200px; /* Set the height */
+    width: 250px; /* Set the width */
+    height: 250px; /* Set the height */
     border-radius: 50%; /* Make it circular */
     overflow: hidden; /* Hide the overflow */
-    border: 2px solid #000; /* Optional: add a border */
+    border: 4px solid #555; /* Optional: Add a border */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow */
 }
 
 .circular-image img {
-    width: 100%;
+    width: 100%; /* Ensures high pixel quality */
     height: 100%;
-    object-fit: cover; /* Ensure the image covers the circle */
+    object-fit: cover; /* Ensures the image fits the circle */
 }
 </style>
 </head>

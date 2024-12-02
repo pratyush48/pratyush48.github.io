@@ -5,13 +5,17 @@
 layout: default
 ---
 <!-- ![alt text]() -->
-<div align="center">
-
-![My profile](/assets/photo.jpg)
-
-![FB](fb.png)
-![Twitter](twitter.png)
-
+<div class="center">
+  <a href="#">
+    <img src="{% link assets/photo.jpg %}" alt="My profile" width="300">
+  </a>
+  <br>
+  <div class="social-icons">
+    <a href="{{ site.social.fb.target }}" alt="Facebook profile">
+      <img src="{% link assets/fb.svg %}" width="50">
+    </a>
+    <a><img></a>
+  </div>
 </div>
 
 ---

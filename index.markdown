@@ -17,8 +17,8 @@ body {
 }
 
 .circular-image {
-    width: 250px; /* Set the width */
-    height: 250px; /* Set the height */
+    width: 500px; /* Set the width */
+    height: 500px; /* Set the height */
     border-radius: 50%; /* Make it circular */
     overflow: hidden; /* Hide the overflow */
     border: 4px solid #555; /* Optional: Add a border */

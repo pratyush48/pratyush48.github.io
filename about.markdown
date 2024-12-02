@@ -11,14 +11,6 @@ Currently, I am developing a PIM architecture for general-purpose applications a
 My work is driven by a commitment to advancing energy-efficient microarchitectures that can seamlessly integrate with traditional memory technologies, bridging the divide between computation and memory for next-generation computing systems.
 
 ![alt text](/assets/about_photo.webp)
-<!-- 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Apart from designing energy efficient processing-in-memory architecture, playing soccer and boxing is my passion
 
-
-[jekyll-organization]: https://github.com/jekyll -->

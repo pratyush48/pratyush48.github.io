@@ -117,7 +117,7 @@ body {
             </a>
         </div>
         <div class="icon">
-            <a href="pratyush.nandi@utah.edu">
+            <a href="mailto:pratyush.nandi@utah.edu">
                 <img src="/assets/email.png" alt="Email">
             </a>
         </div>

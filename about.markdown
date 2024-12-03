@@ -6,9 +6,12 @@ permalink: /about/
 <div style="font-family: Helvetica, Arial, sans-serif;">
  I am a first-year PhD student in the UtahArch Lab at the University of Utah, working under <a href="https://users.cs.utah.edu/~rajeev/" target="_blank">Prof. Rajeev Balasubramonian</a>. My research focuses on processing-in-memory (PIM) technologies within computer architecture. Specifically, I aim to design innovative architectural solutions that integrate memory and processing elements to enhance system efficiency, optimize performance, and reduce energy consumption.
 
-Currently, I am developing a PIM architecture for general-purpose applications and benchmarking it against state-of-the-art PIM designs. By bringing computation closer to memory, I aim to address the ever-growing performance gap between processors and memory. Prior to my PhD, I completed an integrated master's program at the International Institute of Information Technology Bangalore, where I specialized in computer architecture and microarchitecture design.
+I am currently seeking **summer internship opportunities for 2025** in the field of hardware accelerators and micro-architecture design. With a strong background in **energy-efficient computing systems**, **micro-architecture design**, and **processing-in-memory (PIM) architectures**, I am eager to contribute my skills and passion for innovation to impactful projects.
 
-My work is driven by a commitment to advancing energy-efficient microarchitectures that can seamlessly integrate with traditional memory technologies, bridging the divide between computation and memory for next-generation computing systems.
+Feel free to contact me if you believe my profile aligns with any active roles relevant to my areas of expertise. I am looking forward to exploring new challenges and making meaningful contributions. Please refer to my <a href="https://drive.google.com/file/d/15Dm3w-x4hNVAglailYhgC3nQuvxmol9-/view?usp=sharing" target="_blank">CV</a> for further details.
+
+ Prior to my PhD, I completed an integrated master's program at the International Institute of Information Technology Bangalore, where I specialized in computer architecture and microarchitecture design.
+
 
 </div>
 

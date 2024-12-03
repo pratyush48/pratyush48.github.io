@@ -124,8 +124,8 @@ body {
     </div>
 
 <!-- Role Header -->
-    <div class="role-header">PhD Student</div>
-    <div class="role-description">Graduate Research Assistant at UtahArch Lab</div>
+    <div class="role-header">PhD Student @University of Utah</div>
+    <div class="role-description">Graduate Research Assistant at <a href=https://arch.cs.utah.edu/">Utah Arch Research Group</a></div>
 
     <!-- List Header -->
     <div class="list-header">Publications</div>

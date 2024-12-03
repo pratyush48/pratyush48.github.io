@@ -12,8 +12,7 @@ Currently, I am developing a PIM architecture for general-purpose applications a
 
 My work is driven by a commitment to advancing energy-efficient microarchitectures that can seamlessly integrate with traditional memory technologies, bridging the divide between computation and memory for next-generation computing systems.
 
-![alt text](/assets/about_photo.webp)
-
 Apart from designing energy efficient processing-in-memory architecture, playing soccer and boxing is my passion
 
 </div>
+![alt text](/assets/about_photo.webp)

@@ -124,18 +124,21 @@ body {
     </div>
 
 <!-- Role Header -->
-    <div class="role-header">Your Role</div>
-    <div class="role-description">Signal Integrity Engineer at Western Digital</div>
+    <div class="role-header">PhD Student</div>
+    <div class="role-description">Graduate Research Assistant at UtahArch Lab</div>
 
     <!-- List Header -->
-    <div class="list-header">My Key Skills</div>
+    <div class="list-header">Publications</div>
     <div class="list-container">
         <ul>
-            <li>Micro-architecture design and energy-efficient computing systems</li>
-            <li>Processing-in-memory (PIM) architectures</li>
-            <li>Signal integrity analysis for high-speed interfaces</li>
-            <li>Simulation and correlation of SPICE models</li>
-            <li>Hands-on lab measurement and testing</li>
+            <li><a href="https://dl.acm.org/doi/abs/10.1145/3649476.3658743">>GOLDS: Genetic Algorithm-based Optimization of Custom FPGA Architecture Layout Design for Secure Silicon</a></li>
+            <li><a href="https://ieeexplore.ieee.org/abstract/document/10360959/">>ApproxCNN: Evaluation Of CNN With Approximated Layers Using In-Exact Multipliers</a></li>
+            <li><a href="https://link.springer.com/article/10.1007/s12652-023-04667-w">>Soil friction coefficient estimation using CNN included in an assistive system for walking in urban areas</a></li>
+            <li><a href="https://ieeexplore.ieee.org/abstract/document/10238594/">>Design-space exploration of multiplier approximation in cnns</a></li>
+            <li><a href="https://ieeexplore.ieee.org/abstract/document/10108325">>Design and evaluation of CNN hardware accelerator designs for in-seat passenger anomaly detection</a></li>
+            <li><a href="https://ieeexplore.ieee.org/abstract/document/9871777">>A novel cnn-lstm model based non-invasive cuff-less blood pressure estimation system</a></li>
+            <li><a href="https://ieeexplore.ieee.org/abstract/document/9773868">>Design of a CNN based autonomous in-seat passenger anomaly detection system</a></li>
+            <li><a href="https://ieeexplore.ieee.org/abstract/document/9304666">>Design of a real-time autonomous in-cabin sensory system to detect passenger anomaly</a></li>
         </ul>
     </div>
 

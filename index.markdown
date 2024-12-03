@@ -11,15 +11,14 @@ body {
     margin: 0;
     background-color: #f4f4f4;
     font-family: Helvetica, Arial, sans-serif;
+    text-align: center; /* Center align all content */
 }
 
-.center-container {
+.container {
     display: flex;
     flex-direction: column; /* Stack content vertically */
     align-items: center; /* Center content horizontally */
-    justify-content: center; /* Center content vertically */
-    height: 100vh;
-    text-align: center; /* Center align text */
+    margin-top: 50px; /* Adjust spacing from the top */
 }
 
 .circular-image {
@@ -61,43 +60,41 @@ body {
 .icon:hover {
     transform: scale(1.1); /* Scale up slightly on hover */
 }
-
-.icon a {
-    text-decoration: none;
-}
 </style>
 </head>
 <body>
 
-<div class="center-container">
+<div class="container">
+    <!-- Profile Image -->
     <div class="circular-image">
-        <img src="/asstets/photo.jpg" alt="Profile Image">
+        <img src="your-profile-image.jpg" alt="Profile Image">
     </div>
 
+    <!-- Social Icons -->
     <div class="icons-container">
         <div class="icon">
             <a href="your-google-scholar-link" target="_blank">
-                <img src="/asstets/Untitled.png" alt="Google Scholar">
+                <img src="google-scholar-icon.png" alt="Google Scholar">
             </a>
         </div>
         <div class="icon">
             <a href="your-orcid-id-link" target="_blank">
-                <img src="/asstets/Untitled.png" alt="ORCID">
+                <img src="orcid-icon.png" alt="ORCID">
             </a>
         </div>
         <div class="icon">
             <a href="your-research-gate-link" target="_blank">
-                <img src="/asstets/Untitled.png" alt="ResearchGate">
+                <img src="research-gate-icon.png" alt="ResearchGate">
             </a>
         </div>
         <div class="icon">
             <a href="your-linkedin-link" target="_blank">
-                <img src="/asstets/Untitled.png" alt="LinkedIn">
+                <img src="linkedin-icon.png" alt="LinkedIn">
             </a>
         </div>
         <div class="icon">
             <a href="mailto:your-email@example.com">
-                <img src="/asstets/Untitled.png" alt="Email">
+                <img src="email-icon.png" alt="Email">
             </a>
         </div>
     </div>

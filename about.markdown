@@ -3,6 +3,8 @@ layout: default
 title: About
 permalink: /about/
 ---
+<div style="font-family: Helvetica, Arial, sans-serif;">
+This text is styled with the Helvetica font.
 
  I am a first-year PhD student in the UtahArch Lab at the University of Utah, working under Prof. Rajeev Balasubramonian. My research focuses on processing-in-memory (PIM) technologies within computer architecture. Specifically, I aim to design innovative architectural solutions that integrate memory and processing elements to enhance system efficiency, optimize performance, and reduce energy consumption.
 
@@ -14,3 +16,4 @@ My work is driven by a commitment to advancing energy-efficient microarchitectur
 
 Apart from designing energy efficient processing-in-memory architecture, playing soccer and boxing is my passion
 
+</div>

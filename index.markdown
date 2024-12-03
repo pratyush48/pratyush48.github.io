@@ -73,28 +73,28 @@ body {
     <!-- Social Icons -->
     <div class="icons-container">
         <div class="icon">
-            <a href="your-google-scholar-link" target="_blank">
+            <a href="https://scholar.google.com/citations?user=nI_wF6gAAAAJ&hl=en&oi=ao" target="_blank">
                 <img src="/assets/Untitled.png" alt="Google Scholar">
             </a>
         </div>
         <div class="icon">
-            <a href="your-orcid-id-link" target="_blank">
-                <img src="orcid-icon.png" alt="ORCID">
+            <a href="https://orcid.org/my-orcid?orcid=0009-0004-8775-5306" target="_blank">
+                <img src="/assets/orc.png" alt="ORCID">
             </a>
         </div>
         <div class="icon">
-            <a href="your-research-gate-link" target="_blank">
-                <img src="research-gate-icon.png" alt="ResearchGate">
+            <a href="https://www.researchgate.net/profile/Pratyush-Nandi" target="_blank">
+                <img src="/assets/rg.png" alt="ResearchGate">
             </a>
         </div>
         <div class="icon">
-            <a href="your-linkedin-link" target="_blank">
-                <img src="linkedin-icon.png" alt="LinkedIn">
+            <a href="https://www.linkedin.com/in/pratyush-nandi-458a13172/" target="_blank">
+                <img src="/assets/linkd.png" alt="LinkedIn">
             </a>
         </div>
         <div class="icon">
-            <a href="mailto:your-email@example.com">
-                <img src="email-icon.png" alt="Email">
+            <a href="pratyush.nandi@utah.edu">
+                <img src="/assets/email.png" alt="Email">
             </a>
         </div>
     </div>

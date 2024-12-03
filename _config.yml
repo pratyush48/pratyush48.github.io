@@ -18,7 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Pratyush Nandi
+title: "Pratyush Nandi"
+style: "color: #FF0000; font-family: 'Helvetica', sans-serif;"
 repository: pratyush48/pratyush48.github.io
 email: pratyush.nandi@utah.edu 
 description: >- # this means to ignore newlines until "baseurl:"

@@ -60,6 +60,30 @@ body {
 .icon:hover {
     transform: scale(1.1); /* Scale up slightly on hover */
 }
+
+.role-header, .list-header {
+    font-size: 24px; /* Adjust header font size */
+    margin: 20px 0 10px; /* Add spacing around the headers */
+    color: #333; /* Header color */
+}
+
+.role-description {
+    font-size: 18px; /* Font size for role description */
+    margin-bottom: 20px; /* Spacing below the description */
+    color: #555; /* Text color */
+}
+
+.list-container {
+    text-align: left; /* Align list to the left */
+    max-width: 600px; /* Set a max width for the list */
+    margin: 0 auto; /* Center the list */
+}
+
+.list-container ul {
+    list-style-type: disc; /* Use bullet points */
+    padding-left: 20px; /* Indent the list */
+}
+
 </style>
 </head>
 <body>
@@ -98,6 +122,23 @@ body {
             </a>
         </div>
     </div>
+
+<!-- Role Header -->
+    <div class="role-header">Your Role</div>
+    <div class="role-description">Signal Integrity Engineer at Western Digital</div>
+
+    <!-- List Header -->
+    <div class="list-header">My Key Skills</div>
+    <div class="list-container">
+        <ul>
+            <li>Micro-architecture design and energy-efficient computing systems</li>
+            <li>Processing-in-memory (PIM) architectures</li>
+            <li>Signal integrity analysis for high-speed interfaces</li>
+            <li>Simulation and correlation of SPICE models</li>
+            <li>Hands-on lab measurement and testing</li>
+        </ul>
+    </div>
+
 </div>
 
 </body>

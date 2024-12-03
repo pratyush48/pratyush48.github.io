@@ -67,14 +67,14 @@ body {
 <div class="container">
     <!-- Profile Image -->
     <div class="circular-image">
-        <img src="your-profile-image.jpg" alt="Profile Image">
+        <img src="/assets/photo.jpg" alt="Profile Image">
     </div>
 
     <!-- Social Icons -->
     <div class="icons-container">
         <div class="icon">
             <a href="your-google-scholar-link" target="_blank">
-                <img src="google-scholar-icon.png" alt="Google Scholar">
+                <img src="/assets/Untitled.png" alt="Google Scholar">
             </a>
         </div>
         <div class="icon">
